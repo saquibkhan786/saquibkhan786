@@ -1,22 +1,90 @@
-<h1 align="center">Hi 👋, I'm Saquib khan</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+# 👋 Hi, I'm Saquib Khan!
+### Full Stack Developer from Lucknow, India
 
-- 🔭 I’m currently working on **YouTube clone**
+---
 
-- 👯 I’m looking to collaborate on **APPLE**
+📞 **Contact Information**  
+- 📍 Location: Lucknow, Uttar Pradesh, 226017, India  
+- 📱 Phone: +91-7458098617  
+- 📧 Email: [saquib76000@gmail.com](mailto:saquib76000@gmail.com)  
+- 🔗 LinkedIn: [Saquib Khan](https://www.linkedin.com/in/saquib744//)  
+- GitHub: [Saquibkhan786](https://github.com/saquibkhan786)
 
-- 🤝 I’m looking for help with **Web Development**
+---
 
-- 💬 Ask me about **Web development and Marketing**
+## 🚀 About Me
+Enthusiastic and detail-oriented Full Stack Developer with hands-on experience in developing responsive web applications. Proficient in programming languages like **Java** and **Python**, front-end technologies like **HTML**, **CSS**, **JavaScript**, and back-end frameworks such as **Node.js** and **Express**. Strong understanding of database management with **MongoDB** and **SQL**.
 
-- 📫 How to reach me E-mail - **saquib76000@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saquib744/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzada saquib shahz khan" height="30" width="40" /></a>
-<a href="https://fb.com/shahzada saquib shahz khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahzada saquib shahz khan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khan creations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khan creations" height="30" width="40" /></a>
-</p>
+## 💼 Experience
+### Java Full Stack Developer | **Kodnest**  
+*Jul '24 — Present | Bengaluru, India*
+- Contributed to the development of **4 web applications**, utilizing **Java**, **Spring Boot**, and **Hibernate**, resulting in a **30%** improvement in application performance.
+- Collaborated with a team to create responsive user interfaces using **HTML**, **CSS**, and **JavaScript**, achieving a **25%** increase in user engagement across deployed applications.
+- Assisted in database management using **MySQL**, optimizing query performance and reducing data retrieval time by **20%**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Associate Web Developer | **M1 Logix Technologies**  
+*Jun '23 — Jun '24 | Lucknow, India*
+- Developed and maintained responsive web applications using **HTML**, **CSS**, and **JavaScript**, enhancing user engagement by **25%**.
+- Assisted in migrating legacy systems to modern web applications, improving site performance by **30%**.
+- Implemented **RESTful APIs**, enhancing user experience and facilitating data retrieval, resulting in a **20%** increase in user engagement.
+
+---
+
+## 🎓 Education
+### B.Tech in Computer Science and Engineering  
+**Ambalika Institute Of Management And Technology**  
+*Jun '19 — Jun '23 | Lucknow, India*  
+GPA: **7.8 CGPA**
+
+### Intermediate | **A.L.Y Mainpuriya Inter College**  
+*Apr '18 — Apr '19*
+
+---
+
+## 🔧 Projects
+
+### 🕵️‍♂️ **Criminal Face Detection System**  
+*Jan '22*  
+- Implemented criminal face detection using **Java Swing**, **AWT**, and **Figma**, resulting in an accurate and user-friendly interface.
+- Integrated **Figma** for intuitive UI design, enhancing the user experience.
+  
+[View Project Repository](https://github.com/saquibkhan786/Criminal-Face-Detection-System)
+
+### 💳 **Payment Gateway Integration**  
+*Sep '22*  
+- Created a website with integrated **payment gateway**, enabling a **seamless donation process**.
+- Added a **donate button** to the homepage, facilitating user donations and increasing donations by **25%**.
+- Implemented invoice generation and email notifications for payment confirmation.
+
+[View Project Live Link](https://paymentgatewayinteg.netlify.app/)  
+[View Repository](https://github.com/saquibkhan786/payment-gateway-integration)
+
+---
+
+## 🧰 Skills & Technologies
+**Programming Languages**: Java, Python  
+**Web Technologies**: HTML5, CSS3, JavaScript, React.js, Node.js, MongoDB  
+**Database Management**: MySQL, MongoDB  
+**Development Tools**: VS Code, Compass  
+**Version Control**: Git, GitHub  
+**Frameworks**: Spring, React.js  
+**Data Visualization**: Tableau
+
+---
+
+## 📊 GitHub Stats
+
+![Saquib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saquibkhan786&show_icons=true&hide_title=true)
+
+---
+
+## 💬 Dev Quote  
+> "The best way to predict the future is to invent it." — Alan Kay
+
+---
+
+## 🌍 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/saquib744/)
+- [GitHub](https://github.com/saquibkhan786)

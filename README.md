@@ -50,7 +50,7 @@ GPA: **7.8 CGPA**
 - Implemented criminal face detection using **Java Swing**, **AWT**, and **Figma**, resulting in an accurate and user-friendly interface.
 - Integrated **Figma** for intuitive UI design, enhancing the user experience.
   
-[View Project Repository](https://github.com/saquibkhan786/Criminal-Face-Detection-System)
+[View Project Repository](https://github.com/saquibkhan786/Criminal-Face)
 
 ### 💳 **Payment Gateway Integration**  
 *Sep '22*  
@@ -59,7 +59,7 @@ GPA: **7.8 CGPA**
 - Implemented invoice generation and email notifications for payment confirmation.
 
 [View Project Live Link](https://paymentgatewayinteg.netlify.app/)  
-[View Repository](https://github.com/saquibkhan786/payment-gateway-integration)
+[View Repository](https://github.com/saquibkhan786/the-sparks-foundation/tree/main/Payment%20Gateway%20Website)
 
 ---
 
